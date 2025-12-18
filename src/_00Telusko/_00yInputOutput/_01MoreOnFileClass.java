@@ -4,8 +4,8 @@ import java.io.File;
 
 public class _01MoreOnFileClass {
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles\\java.txt";
-        String dirPath = "C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles\\Dir";
+        String filePath = "C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles\\java.txt";
+        String dirPath = "C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles\\Dir";
         try{
             //File
             File file1 = new File(filePath);
@@ -19,7 +19,7 @@ public class _01MoreOnFileClass {
             System.out.println(dir1.isFile());
 
             //name of files and folders present in a folder
-            File file2 = new File("C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles");
+            File file2 = new File("C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles");
             String[] names = file2.list();
             System.out.println("--List--");
             for (String name : names) {

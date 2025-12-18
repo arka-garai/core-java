@@ -30,7 +30,7 @@ public class _07SerializationAndDeserializationDemo {
 //        Student5 stu1 = new Student5(1, "Rohan", 16);
 //        System.out.println(stu1);
 //        try {
-//            FileOutputStream fos = new FileOutputStream("C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles\\serial.txt");
+//            FileOutputStream fos = new FileOutputStream("C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles\\serial.txt");
 //            BufferedOutputStream bos = new BufferedOutputStream(fos);
 //            ObjectOutputStream oos = new ObjectOutputStream(bos);
 //
@@ -48,7 +48,7 @@ public class _07SerializationAndDeserializationDemo {
 
         // ---------- DESERIALIZATION ----------
         try {
-            FileInputStream fis = new FileInputStream("C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles\\serial.txt");
+            FileInputStream fis = new FileInputStream("C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles\\serial.txt");
             BufferedInputStream bis = new BufferedInputStream(fis);
             ObjectInputStream ois = new ObjectInputStream(bis);
 

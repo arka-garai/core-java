@@ -4,7 +4,7 @@ import java.io.*;
 
 public class _06PrintWriterDemo {
     public static void main(String[] args) throws IOException {
-        String filePath = "C:\\Users\\arkag\\projects\\Core Java\\src\\_00zInputOutputFiles\\java.txt";
+        String filePath = "C:\\Users\\arkag\\projects\\Core-Java\\src\\_00Telusko\\_00zInputOutputFiles\\java.txt";
         FileWriter writer = null;
         PrintWriter pw = null;
         try {
