@@ -1,6 +1,6 @@
 package _00Telusko._00ObjectOrientedProgramming_OOPs;
 
-public class _0TypeConversionAndCasting {
+public class _00ATypeConversionAndCasting {
     public static void main(String[] args) {
         byte byteValue = 10; // 1 byte
         short shortValue = byteValue; // 2 bytes
