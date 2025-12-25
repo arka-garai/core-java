@@ -1,7 +1,7 @@
 package com.arka._00bpackagesDemo;
 
-import _00Telusko._00bpackagesDemo.other.A;
-import _00Telusko._00bpackagesDemo.other.B;
+import com.arka._00bpackagesDemo.other.A;
+import com.arka._00bpackagesDemo.other.B;
 
 class C extends A {
     public void abc(){
