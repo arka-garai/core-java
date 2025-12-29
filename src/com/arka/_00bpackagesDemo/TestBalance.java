@@ -1,6 +1,5 @@
 package com.arka._00bpackagesDemo;
 
-import _00Telusko._00bpackagesDemo.MyPack.*;
 import com.arka._00bpackagesDemo.MyPack.Balance;
 
 public class TestBalance{
