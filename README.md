@@ -1,4 +1,4 @@
-# Core-Java
+# core-java
 
 A comprehensive collection of Core Java concepts and examples for learning and reference.
 
@@ -9,7 +9,7 @@ A comprehensive collection of Core Java concepts and examples for learning and r
 ## Project Structure
 
 ```
-Core-Java/
+core-java/
 ├── .idea/
 ├── src/
 │   └── com/
@@ -65,7 +65,7 @@ Concurrent programming and thread management in Java.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arka-garai/Core-Java.git
+   git clone https://github.com/arka-garai/core-java.git
    ```
 
 2. Open the project in your preferred IDE (IntelliJ IDEA recommended)
