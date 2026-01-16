@@ -16,8 +16,8 @@ core-java/
 │           ├── _00cArrays/
 │           ├── _00dAbstractClassAndInterface/
 │           ├── _00eEnumsAndExceptions/
-│           ├── [See Additional Topics](#additional-topics-external-resources)
-│           └── ...
+│           ├── [See Additional Topics given below]
+│         
 ├── .gitignore
 └── Core-Java.iml
 ```
