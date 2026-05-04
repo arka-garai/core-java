@@ -1,6 +1,7 @@
 # core-java
 A comprehensive collection of Core Java concepts and examples.
 
+
 ## Requirements
 - **Java Version**: OpenJDK 21
 
